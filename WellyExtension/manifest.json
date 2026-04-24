@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Welly Extension",
+  "version": "1.0",
+  "permissions": ["nativeMessaging", "activeTab"],
+  "background": {
+    "service_worker": "back.js"
+  },
+  "action": {
+    "default_popup": "result.html"
+  }
+}

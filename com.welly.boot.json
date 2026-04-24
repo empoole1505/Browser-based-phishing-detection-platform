@@ -1,0 +1,9 @@
+{
+  "name": "com.welly.boot",
+  "description": "Welly Phishing Predictor",
+  "path": "/home/ethan/Desktop/bridge.sh",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ldcncjalkeappmkelokibekonjnfanbo/"
+  ]
+}
